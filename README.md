@@ -1,6 +1,7 @@
-# This application is for educational use only. I am not responsible for any misuse of this software by users.
-# How it works
-`The program bypasses Wise Folder Hider's password checks.`
+> **Disclaimer:** This application is for educational purposes only. The developer is not responsible for any misuse of this software.
 
-# Support
- `If you want me to support a version you'd like to use, you can say so in both issues.`
+## How It Works
+This tool bypasses password checks for Wise Folder Hider.
+
+## Support
+If you would like support for a specific version, feel free to open an issue.****
