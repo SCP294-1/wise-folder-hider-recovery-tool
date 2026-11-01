@@ -1,7 +1,7 @@
-> **Disclaimer:** This application is for educational purposes only. The developer is not responsible for any misuse of this software.
-
 ## How It Works
 This tool bypasses password checks for Wise Folder Hider.
+> **Disclaimer:** This application is for educational purposes only. The developer is not responsible for any misuse of this software.
+
 
 ## Support
 If you would like support for a specific version, feel free to open an issue.****
