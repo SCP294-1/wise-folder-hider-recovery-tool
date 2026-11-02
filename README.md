@@ -1,8 +1,8 @@
 ## How It Works
-This tool bypasses password checks for Wise Folder Hider.
+This tool bypasses password verification for Wise Folder Hider.
 
 ## Support
-If you would like support for a specific version, feel free to open an issue.
+To request support for a specific version, feel free to open an issue.
 
 ## Disclaimer
-> **Note:** This application is for educational purposes only. The developer is not responsible for any misuse of this software.
+> **Note:** This software is intended strictly for educational and research purposes. The developer assumes no responsibility for any misuse. If the WiseCleaner Team would like this project removed or archived, please open an issue.
