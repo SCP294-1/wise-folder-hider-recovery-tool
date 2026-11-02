@@ -1,4 +1,6 @@
 {
   "version": 1,
-  "offsets": {}
+  "offsets": {
+    "5.1.1": ["0x7CF4A6", "0x7D026F", "0x7D1215"]
+  }
 }
