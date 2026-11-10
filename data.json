@@ -1,9 +1,9 @@
 {
   "version": 1,
   "memory_patterns": {
-    "change_passwords": "",
-    "bypass_app_password": "",
-    "bypass_other_password": ""
+    "Change Passwords": "",
+    "Bypass App Password": "",
+    "Bypass Other Password": ""
   },
   "require_elevation": true
 }
