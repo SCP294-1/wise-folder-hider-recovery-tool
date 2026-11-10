@@ -1,4 +1,4 @@
-# Ferramenta de recuperação para Wise Folder Hider
+# Wise Folder Hider Recovery Tool
 
 ## ⚙️ How It Works
 This utility performs a password verification bypass for **Wise Folder Hider**, allowing data recovery and administrative access without requiring the original credentials.
